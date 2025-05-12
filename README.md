@@ -43,11 +43,6 @@ My 2nd YouTube channel is mostly about cooking and kitchen appliances.
 
 [![SBC Images](https://img.shields.io/badge/SBC_Images-Custom_Builds-orange?style=flat)](https://github.com/platima/SBC-Images) Custom built OS images for various single-board computers with improvements over stock versions.
 
-## 🔧 Current Projects
-- **Enhanced Braindump Format (EBF)**: Developing a standardized format for efficient information transfer between AI assistant sessions
-- **SBC Tier List**: Maintaining a comprehensive ranking of single-board computers
-- **Custom SBC Images**: Creating and sharing improved OS images for Radxa, Luckfox and other SBC platforms
-
 ---
 
 💬 **Want to collaborate or have questions?** Feel free to reach out on any of my social platforms!
