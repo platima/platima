@@ -1,6 +1,6 @@
 # 👋 Welcome to Platima's GitHub
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=platima.platima" />
-<img src="https://github.com/platima/platima/blob/main/2022-09-05%20Logo%203.png?raw=true" style="max-width: 100px; margin: 0 auto;" />
+<img src="https://github.com/platima/platima/blob/main/Banner.png?raw=true" />
 
 ## About Me
 Aussie, late 30's, having fun and loving life whilst tinkering with food and technology, sometimes making videos and selling spare product via my online SBC & electronics shop.
